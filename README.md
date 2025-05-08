@@ -3,7 +3,7 @@
 PROJECT CUỐI KỲ HỌC PHẦN XỬ LÝ ẢNH SỐ
 
 1. MỤC TIÊU PROJECT:
-   Áp dụng các kỹ thuật xử lý ảnh số vào giải quyết các bài toán thực tế bằng ngôn ngữ lập trình Python và các thư viện phổ biến, thực hành các kỹ thuật về trích xuất đặc trưng (PCA, SIFT, LBPH), biến đổi hình học, khớp ảnh và ứng dụng học máy cơ bản trong lĩnh vực xử lý ảnh.
+   - Áp dụng các kỹ thuật xử lý ảnh số vào giải quyết các bài toán thực tế bằng ngôn ngữ lập trình Python và các thư viện phổ biến, thực hành các kỹ thuật về trích xuất đặc trưng (PCA, SIFT, LBPH), biến đổi hình học, khớp ảnh và ứng dụng học máy cơ bản trong lĩnh vực xử lý ảnh.
 
 2. YÊU CẦU CHUNG:
    - Ngôn ngữ lập trình: Python 3.x.
@@ -15,7 +15,7 @@ PROJECT CUỐI KỲ HỌC PHẦN XỬ LÝ ẢNH SỐ
       + Scikit-image (scikit-image cho LBPH).
       + Kaggle (kaggle, kagglehub) và Pandas (pandas) cho Tác vụ 4.
       + Các thư viện chuẩn khác của Python (os, math, time, glob...).
-   Tập dữ liệu sử dụng (cho Tác vụ 4): msambare/fer2013
+   - Tập dữ liệu sử dụng (cho Tác vụ 4): msambare/fer2013
 
 4. CÁC TÁC VỤ CỤ THỂ:
    - Tác vụ 1: Nén ảnh sử dụng PCA (Principal Component Analysis)
