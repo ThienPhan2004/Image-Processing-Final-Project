@@ -18,12 +18,12 @@ PROJECT CUỐI KỲ HỌC PHẦN XỬ LÝ ẢNH SỐ
    Tập dữ liệu sử dụng (cho Tác vụ 4): msambare/fer2013
 
 4. CÁC TÁC VỤ CỤ THỂ:
-   Tác vụ 1: Nén ảnh sử dụng PCA (Principal Component Analysis)
-   Tác vụ 2: Ghép ảnh Panorama sử dụng SIFT
-   Tác vụ 3: Khớp ảnh / Đăng ký ảnh sử dụng SIFT
-   Tác vụ 4: Nhận dạng Biểu cảm Khuôn mặt dùng LBPH và Random Forest
+   - Tác vụ 1: Nén ảnh sử dụng PCA (Principal Component Analysis)
+   - Tác vụ 2: Ghép ảnh Panorama sử dụng SIFT
+   - Tác vụ 3: Khớp ảnh / Đăng ký ảnh sử dụng SIFT
+   - Tác vụ 4: Nhận dạng Biểu cảm Khuôn mặt dùng LBPH và Random Forest
 
-5. THÀNH PHẦN CÁC FILE TRONG GITHUB REPOSITORY:
+6. THÀNH PHẦN CÁC FILE TRONG GITHUB REPOSITORY:
    - File báo cáo: BaoCaoXLAS.pdf
    - File yêu cầu đề tài: final_projec_digital_image_processing.pdf
    - Các file chương trình thực hiện các tác vụ (các file .py)
